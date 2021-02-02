@@ -1,3 +1,19 @@
+# Snapshot of Webpage
+Home Page
+[
+![Home page](https://user-images.githubusercontent.com/32680303/106587093-316e0080-656f-11eb-9977-c84dfed71565.jpeg)
+](url)
+
+Blogs Page
+![Blogs Page](https://user-images.githubusercontent.com/32680303/106587237-61b59f00-656f-11eb-81b5-60e8f4b79dd9.jpeg)
+
+Footer
+![Footer](https://user-images.githubusercontent.com/32680303/106587294-72661500-656f-11eb-9e3c-670ece94fc8a.jpeg)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
