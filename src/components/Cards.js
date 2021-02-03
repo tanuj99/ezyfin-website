@@ -11,7 +11,7 @@ function Cards() {
                 <div className='cards__wrapper'>
                     <ul className='cards__items'>
                         <Carditem
-                        src="images/img-2.jpg"
+                        src="images/img-1.jpg"
                         text1="Finance is life"
                         text="Finance is life Finance is life Finance is life Finance is life"
                         label="Finance"
@@ -25,7 +25,7 @@ function Cards() {
                         path='/blog'
                         />
                       <Carditem
-                        src="images/img-2.jpg"
+                        src="images/img-1.jpg"
                         text1="Finance is life"
                         text="Finance is life Finance is life Finance is life Finance is life"
                         label="Finance"
@@ -35,6 +35,13 @@ function Cards() {
                     <ul className='cards__items'>
                         <Carditem
                         src="images/img-2.jpg"
+                        text1="Finance is life"
+                        text="Finance is life Finance is life Finance is life Finance is life"
+                        label="Finance"
+                        path='/blog'
+                        />
+                        <Carditem
+                        src="images/img-1.jpg"
                         text1="Finance is life"
                         text="Finance is life Finance is life Finance is life Finance is life"
                         label="Finance"
